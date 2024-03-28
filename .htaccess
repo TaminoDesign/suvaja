@@ -1,9 +1,0 @@
-order deny,allow
-deny from all
-allow from 109.175.38.246
-
-
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile .htpasswd
-require valid-user
