@@ -1,4 +1,0 @@
-order deny,allow
-deny from all
-allow from 109.175.38.86
-
